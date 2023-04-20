@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Welcome to myapp.com</title>
+    <title>Welcome to abhiworld</title>
 
 
     <!-- Custom styles for this template -->
@@ -51,7 +51,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello</h1>
-        <p>This is from Dev Environment </p>
+        <p>This is Abhi's world</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
