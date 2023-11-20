@@ -60,7 +60,7 @@ pipeline {
                             groupId: pom.groupId,
                             version: ARTIFACT_VERSION,
                             repository: NEXUS_REPOSITORY,
-                            credentialsId: NEXUS_CREDENTIALS_ID,
+                            credentialsId: NEXUS_CREDENTIAL_ID,
                             artifacts: [
                                 // Artifact generated such as .jar, .ear and .war files.
                                 [artifactId: pom.artifactId,
